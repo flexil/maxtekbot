@@ -3,7 +3,7 @@ transformers
 torch
 pyaudio
 numpy
-concurrent.futures
+concurrent.futures ==3.10
 base64
 opencv-python
 Pillow
