@@ -3,6 +3,5 @@ transformers
 torch
 pyaudio
 numpy
-base64
 opencv-python
 Pillow
