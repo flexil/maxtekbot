@@ -1,7 +1,7 @@
 streamlit
 transformers
 torch
-pyaudio==0.2.11
+pyaudio==0.2.13
 numpy
 opencv-python
 Pillow
