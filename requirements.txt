@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+pyaudio
+numpy
+concurrent.futures
+base64
+opencv-python
+Pillow
